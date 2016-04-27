@@ -1,0 +1,19 @@
+
+<svg width="92px" height="56px" viewBox="11 26 92 56" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <!-- Generator: Sketch 3.7.2 (28276) - http://www.bohemiancoding.com/sketch -->
+    <desc>Created with Sketch.</desc>
+    <defs></defs>
+    <g id="schematic" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd" transform="translate(11.000000, 27.000000)">
+        <polyline id="Path-14" stroke="#000000" points="36.7553763 5.15504674 7.95103984 5.50196206 7.95103984 23.9975639 8.02054485 25.1182249 14.3544725 25.1182249 14.3544725 29.9439487 8.02771113 29.9439487 8.02771113 48.692387 35.7408775 48.692387"></polyline>
+        <polyline id="Path-15" stroke="#000000" points="79.5869198 7.33896709 79.5869198 13.9705979 61.6474566 13.9705979 61.6474566 21.6874685"></polyline>
+        <polyline id="Path-16" stroke="#000000" points="33.2929297 27.5313898 55.4539911 27.5313898 64.1263245 33.9660898"></polyline>
+        <polyline id="Path-17" stroke="#000000" points="79.7759246 47.5134685 79.7759246 40.1471575 61.4650145 39.8002422 61.5808562 32.041289"></polyline>
+        <rect id="Rectangle-4" stroke="#979797" x="24" y="0" width="67" height="54" rx="8"></rect>
+        <circle id="Oval-1" fill="#000000" cx="38.5" cy="5.5" r="2.5"></circle>
+        <circle id="Oval-1" fill="#000000" cx="30.5" cy="27.5" r="2.5"></circle>
+        <circle id="Oval-1" fill="#000000" cx="38.5" cy="48.5" r="2.5"></circle>
+        <circle id="Oval-1" fill="#000000" cx="79.5" cy="5.5" r="2.5"></circle>
+        <circle id="Oval-1" fill="#000000" cx="79.5" cy="48.5" r="2.5"></circle>
+        <polyline id="Path-19" stroke="#000000" points="8.54122268 25.0383551 0.975061241 25.0383551 0.975061241 30.0383551 8.08222306 30.0383551"></polyline>
+    </g>
+</svg>

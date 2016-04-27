@@ -1,0 +1,25 @@
+
+<svg width="53px" height="43px" viewBox="101 60 53 43" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <!-- Generator: Sketch 3.7.2 (28276) - http://www.bohemiancoding.com/sketch -->
+    <desc>Created with Sketch.</desc>
+    <defs></defs>
+    <g id="breadboard" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd" transform="translate(101.000000, 60.000000)">
+        <g id="Group">
+            <polygon id="polygon36" fill="#3E3E3E" points="0 0.680277551 52.6344828 0.680277551 51.6457586 13.9993959 0 13.9993959"></polygon>
+            <polygon id="polygon38" fill="#010101" points="0 29.6689469 51.6457586 29.6689469 52.6344828 42.9902416 0 42.9902416"></polygon>
+            <polygon id="polygon56" fill="#161616" points="52.6344828 0.680277551 51.6457586 4.53455184 49.8072069 4.53455184 49.8072069 39.1163804 51.6457586 39.133791 52.6344828 42.9902416"></polygon>
+            <polygon id="polygon58" fill="#1F2020" points="0 0.680277551 0.986896552 4.53455184 0.986896552 13.9993959 6.57931034 13.9993959 6.57931034 29.6689469 0.986896552 29.6689469 0.986896552 39.133791 0 42.9902416"></polygon>
+            <polygon id="polygon60" fill="#1C1C1C" points="6.57931034 13.9993959 0.986896552 13.9362824 0.736517241 17.2551804 0.736517241 21.8167608 6.57931034 21.8167608"></polygon>
+            <polygon id="polygon62" fill="#383938" points="0.986896552 29.749471 6.57931034 29.749471 6.57931034 21.8167608 0.736517241 21.8167608 0.736517241 26.4088098"></polygon>
+            <path d="M0.986896552,4.53455184 L0.986896552,13.9210482 C4.11755172,14.626178 6.50072414,17.8863151 6.50072414,21.8189371 C6.50072414,25.7559118 4.13217241,29.0291069 0.986896552,29.7342367 L0.986896552,39.1207331 L51.6457586,39.1207331 L51.6457586,4.53672816 L0.986896552,4.53672816 L0.986896552,4.53455184 Z" id="path64" fill="#303030"></path>
+            <path d="M0.736517241,17.2551804 L0.736517241,26.3935755 C2.67010345,26.1258873 4.18334483,24.1998384 4.18334483,21.8145845 C4.18517241,19.4358596 2.68472414,17.5228686 0.736517241,17.2551804 L0.736517241,17.2551804 Z" id="path66" fill="#272626"></path>
+            <ellipse id="circle68" fill="#212121" cx="8.55310345" cy="32.7571543" rx="2.71031034" ry="3.22749224"></ellipse>
+        </g>
+        <text id="IMO" fill="#E6E6E6" font-family="DroidSans, Droid Sans" font-size="5" font-weight="normal">
+            <tspan x="7.2002" y="14.2041">IMO</tspan>
+        </text>
+        <text id="SRM-1C-SL-5VDC" fill="#E6E6E6" font-family="DroidSansMono, Droid Sans Mono" font-size="5" font-weight="normal">
+            <tspan x="7.2002" y="20.2041">SRM 1C SL 5VDC</tspan>
+        </text>
+    </g>
+</svg>

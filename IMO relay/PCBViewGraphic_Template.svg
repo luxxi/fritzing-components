@@ -1,0 +1,27 @@
+
+<svg width="43px" height="53px" viewBox="0 0 43 53" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <!-- Generator: Sketch 3.7.2 (28276) - http://www.bohemiancoding.com/sketch -->
+    <desc>Created with Sketch.</desc>
+    <defs></defs>
+    <g id="PCBViewGraphic_Template" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <g id="silkscreen" transform="translate(0.000000, 1.000000)" stroke="#FFFFFF" stroke-width="0.75">
+            <path d="M0.998709677,0.230967742 L0.998709677,49.4696774" id="Shape"></path>
+            <path d="M0.998709677,49.4696774 L40.9484839,49.4696774" id="Shape"></path>
+            <path d="M40.9484839,49.4696774 L40.9484839,0.230967742" id="Shape"></path>
+            <path d="M0.998709677,0.230967742 L15.9793548,0.230967742" id="Shape"></path>
+            <path d="M25.9664516,0.230967742 L40.9484839,0.230967742" id="Shape"></path>
+        </g>
+        <g id="copper0" transform="translate(5.000000, 4.000000)" stroke-width="1.152" stroke="#FFBF00">
+            <g id="copper1">
+                <circle id="connector0pin" cx="16.0040001" cy="2.32400001" r="1.584"></circle>
+                <circle id="connector1pin" cx="2.32" cy="6.52" r="1.584"></circle>
+                <circle id="connector2pin" cx="30.32" cy="6.72" r="1.584"></circle>
+                <circle id="connector3pin" cx="2.32" cy="36.92" r="1.584"></circle>
+                <circle id="connector4pin" cx="29.92" cy="36.92" r="1.584"></circle>
+            </g>
+        </g>
+        <g id="keepout"></g>
+        <g id="soldermask"></g>
+        <g id="outline"></g>
+    </g>
+</svg>
